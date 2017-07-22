@@ -2,7 +2,7 @@ package test
 
 import "testing"
 import (
-	tr "task-runner"
+	tr "github.com/aloknerurkar/task-runner"
 	"os"
 	"time"
 )

@@ -1,7 +1,7 @@
 package main
 
 import (
-	tr "task-runner"
+	tr "github.com/aloknerurkar/task-runner"
 	"fmt"
 	"time"
 	"strconv"
